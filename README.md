@@ -1,4 +1,4 @@
-# DataFellowship8-Airflow
+# Airflow
 ![image](https://user-images.githubusercontent.com/85284506/207533681-cff7d5fe-3703-45eb-816b-c390169f7619.png)
 
 Deploy Airflow on Google Cloud Platform with Docker and create DAG script for ingesting data to Google Cloud Storage + Bigquery External Table
